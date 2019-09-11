@@ -1,0 +1,5 @@
+# this file can be use as ENV for unsecure values
+
+# DATABASE_USERNAME: ''
+# DATABASE_PASSWORD: ''
+# DATABASE_HOST: 'localhost'
