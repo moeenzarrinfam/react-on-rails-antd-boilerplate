@@ -34,3 +34,6 @@ yarn-debug.log*
 /config/storage.yml
 /config/cable.yml
 
+# ignore coverage
+/coverage
+

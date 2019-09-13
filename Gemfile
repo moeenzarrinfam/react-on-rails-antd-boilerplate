@@ -67,6 +67,10 @@ group :test do
   gem 'rspec-rails'
   # stub third party calls to have independent test
   gem 'webmock'
+  # mesure code coverage
+  gem 'simplecov'
+  # clean test database on startup
+  # gem 'database_cleaner'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
