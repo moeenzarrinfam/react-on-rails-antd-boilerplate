@@ -8,7 +8,7 @@ RUN apt-get update -qq && apt-get install -y build-essential libpq-dev curl git 
     && npm install -q -g npm
 
 # Environment Variables
-ENV RAILS_ROOT /var/www/react-on-rails
+ENV RAILS_ROOT /var/www/react-on-rails-antd-boilerplate
 ENV EXPOSE_PORT 8080
 
 # Create application home. App server will need the pids dir so just create everything in one shot
