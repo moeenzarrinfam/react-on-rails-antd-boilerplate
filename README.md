@@ -4,6 +4,8 @@
 
 * System dependencies: `postgresql + dev`
 
+*  #####*please go to README_DOCKER.md for using docker ( so skip below lines )*
+
 * Configuration:
 
 create configuration files from sample and set values carefully
