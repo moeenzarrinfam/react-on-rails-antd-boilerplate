@@ -1,8 +1,10 @@
-# README
+# README 
 
 * Ruby version: `2.5.3`
 
 * System dependencies: `postgresql + dev`
+
+*  #####*please go to README_DOCKER.md for using docker ( so skip below lines )*
 
 * Configuration:
 
