@@ -37,3 +37,7 @@ yarn-debug.log*
 # ignore coverage
 /coverage
 
+#ignore docker files
+/docker/docker.env
+/docker/docker-compose.yml
+
